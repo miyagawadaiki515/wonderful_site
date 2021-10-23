@@ -8,7 +8,7 @@
 .background_img {
   background: url(https://wonderful-wife.net/wp-content/themes/agent_tcd033/img/w_code/head_bg.jpg) no-repeat center center;
   background-size: cover;
-  margin: -20px 0 0;
+  margin: -20px -10px -10px;
   padding: 160px 0 0;
 }
 
@@ -73,5 +73,31 @@
 .warning {
   text-align: center;
   font-size: 0.8em;
+}
+
+.head_txt {
+  background: #000;
+  color: #fff;
+  padding: 140px 0px 48px 0px;
+  margin: -40px -10px;
+}
+
+.head_txt_inner {
+  max-width: 800px;
+  width: 94%;
+  margin: 0 auto;
+}
+
+.head_txt_ttl {
+  text-align: center;
+  border-bottom: 1px solid #ffffff;
+  font-size: 26px;
+  font-weight: normal;
+  padding: 0 0 0.2em;
+  margin: 0 0 0.5em;
+}
+
+p {
+  margin: 0 0 10px;
 }
 /*# sourceMappingURL=main.css.map */
